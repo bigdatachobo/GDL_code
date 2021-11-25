@@ -38,6 +38,8 @@
 주피터 노트북을 실행하려면 먼저 다음 명령으로 파이썬 가상 환경(conda virtual environment) 안에 필요한 라이브러리를 설치하세요.
 
 * miniconda3에서 python 3.6.13 version으로 가상환경 생성한다.
+* miniconda3 설치 페이지
+https://polarcompass.tistory.com/136
 
 `pip install -r requirements.txt`
 
