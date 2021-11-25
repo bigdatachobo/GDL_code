@@ -51,8 +51,6 @@ https://polarcompass.tistory.com/136
 
 `python -m ipykernel install --user --name <가상환경 이름>`
 
-`pip install -r requirements.txt`
-
 ## keras_contrib 는 따로 설치해주어야 한다.
 pip install git+https://www.github.com/keras-team/keras-contrib.git
 https://github.com/keras-team/keras-contrib
