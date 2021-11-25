@@ -45,7 +45,8 @@ https://polarcompass.tistory.com/136
 
 `conda activate <가상환경 이름>`
 
-가상환경 진입 후 아래 명령어 실행
+* 가상환경 진입 후 아래 명령어 실행
+
 `pip install -r requirements.txt`
 
 `python -m ipykernel install --user --name <가상환경 이름>`
