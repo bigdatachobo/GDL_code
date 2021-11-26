@@ -51,6 +51,9 @@ https://polarcompass.tistory.com/136
 
 `python -m ipykernel install --user --name <가상환경 이름>`
 
+* 3단원에서 아래 링크를 타고 들어가 설치해하는 프로램이 있으니 미리 설치해둔다.
+`https://www.graphviz.org/download/`
+
 ## keras_contrib 는 따로 설치해주어야 한다.
 pip install git+https://www.github.com/keras-team/keras-contrib.git
 https://github.com/keras-team/keras-contrib
